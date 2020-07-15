@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Clipchamp
+- 🌱 I’m currently learning how to work on Clipchamp
+- 👯 I’m looking to collaborate on Clipchamp
+- 🤔 I’m looking for help with Clipchamp
+- 💬 Ask me about Clipchamp
+- 📫 How to reach me: patrickatclipchamp
+- 😄 Pronouns: clip/champ
+- ⚡ Fun fact: I work at Clipchamp
+
 <!--
 **patrickmccallum/patrickmccallum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
